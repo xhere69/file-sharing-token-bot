@@ -13,7 +13,7 @@ APP_ID = int(os.environ.get("APP_ID", "23007958"))
 API_HASH = os.environ.get("API_HASH", "97f84a8e847be34c310f89c289c6c1b6")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002291941872"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002349624838"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "6083974407"))
@@ -37,7 +37,7 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID", "https://t.me/openlinksshortner") # how to open tut video link.
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002238422038"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002216058061"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
